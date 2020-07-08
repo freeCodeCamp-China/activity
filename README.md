@@ -15,8 +15,5 @@ freeCodeCamp 中文社区正在 [bilibili](https://space.bilibili.com/335505768)
 - 我们会和嘉宾预约时间提前测试直播效果
 
 ## 直播注意事项
-- 嘉宾在 freeCodeCamp 的 [bilibili 直播间](https://live.bilibili.com/22218677)作分享时，不得在视频或聊天室中讨论政治、宗教话题，也不得散布黄、赌、毒等不良信息。如有违反，嘉宾应承担一切相应责任。
-- 
-
-录播视频或者录制的视频将上传至 freeCodeCamp bilibili 账号，并可能在 freeCodeCamp 微信公众号或其他媒体平台发布。
-- 嘉宾
+嘉宾在 freeCodeCamp 的 [bilibili 直播间](https://live.bilibili.com/22218677)作分享时，应遵守 [freeCodeCamp 的行为准则](https://www.freecodecamp.org/news/code-of-conduct/)。
+**特别提醒：** 嘉宾不得在视频或聊天室中讨论政治、宗教话题，也不得散布黄、赌、毒等不良信息，如有违反，嘉宾应承担一切相应责任。
